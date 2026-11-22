@@ -1,0 +1,12 @@
+LOST AND FOUND MATCHER — RUN SUMMARY
+Lost reports processed: 12
+Found reports processed: 12
+Suggested pairs: 12
+Lost reports with no suggestion: 2
+Found items with no suggestion: 2
+Found items suggested to more than one lost report:
+- F01: claimed by candidate reports L01, L08
+- F07: claimed by candidate reports L01, L08
+
+IMPORTANT: A suggested match is not proof of ownership.
+Help desk checkpoint: ask the claimant for a detail absent from both reports.

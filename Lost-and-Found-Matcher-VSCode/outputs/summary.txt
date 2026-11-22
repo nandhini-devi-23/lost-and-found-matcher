@@ -1,0 +1,22 @@
+LOST AND FOUND MATCHER - SUMMARY
+================================
+
+Total lost reports: 7
+Total found reports: 7
+Suggested pairs: 0
+Likely matches: 0
+Possible matches: 0
+Lost reports with no suggestion: 7
+Unclaimed found items: 7
+
+MULTIPLE-CLAIM ALERTS
+---------------------
+No multiple-claim alerts.
+
+OWNERSHIP VERIFICATION
+----------------------
+A suggested match is not proof of ownership.
+The help desk must ask the claimant for an additional detail
+that does not appear in either report before returning an item.
+
+Note: The help desk makes the final ownership decision.
